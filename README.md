@@ -1,5 +1,9 @@
 # Lumen Generator
 
+由于我看原仓库好久没更新了所以自己整了一下
+
+原仓库地址：https://github.com/flipboxstudio/lumen-generator
+
 [![Total Downloads](https://poser.pugx.org/flipbox/lumen-generator/d/total.svg)](https://packagist.org/packages/flipbox/lumen-generator)
 [![Latest Stable Version](https://poser.pugx.org/flipbox/lumen-generator/v/stable.svg)](https://packagist.org/packages/flipbox/lumen-generator)
 [![Latest Unstable Version](https://poser.pugx.org/flipbox/lumen-generator/v/unstable.svg)](https://packagist.org/packages/flipbox/lumen-generator)
@@ -21,7 +25,7 @@ composer require flipbox/lumen-generator
 Inside your `bootstrap/app.php` file, add:
 
 ```php
-$app->register(Flipbox\LumenGenerator\LumenGeneratorServiceProvider::class);
+$app->register(iVampireSP\LumenGenerator\LumenGeneratorServiceProvider::class);
 ```
 
 ## Available Command

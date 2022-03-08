@@ -1,6 +1,6 @@
 <?php
 
-namespace Flipbox\LumenGenerator\Console;
+namespace iVampireSP\LumenGenerator\Console;
 
 use Exception;
 use Psy\Shell;
@@ -86,9 +86,9 @@ class TinkerCommand extends Command
     protected function getCasters()
     {
         return [
-            'Laravel\Lumen\Application' => 'Flipbox\LumenGenerator\Console\TinkerCommand::castApplication',
-            'Illuminate\Support\Collection' => 'Flipbox\LumenGenerator\Console\TinkerCommand::castCollection',
-            'Illuminate\Database\Eloquent\Model' => 'Flipbox\LumenGenerator\Console\TinkerCommand::castModel',
+            'Laravel\Lumen\Application' => 'iVampireSP\LumenGenerator\Console\TinkerCommand::castApplication',
+            'Illuminate\Support\Collection' => 'iVampireSP\LumenGenerator\Console\TinkerCommand::castCollection',
+            'Illuminate\Database\Eloquent\Model' => 'iVampireSP\LumenGenerator\Console\TinkerCommand::castModel',
         ];
     }
 

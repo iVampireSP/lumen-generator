@@ -1,5 +1,5 @@
 <?php
-namespace Flipbox\LumenGenerator\Console;
+namespace iVampireSP\LumenGenerator\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Contracts\Events\Dispatcher;

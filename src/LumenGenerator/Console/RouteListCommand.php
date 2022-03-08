@@ -1,6 +1,6 @@
 <?php
 
-namespace Flipbox\LumenGenerator\Console;
+namespace iVampireSP\LumenGenerator\Console;
 
 use Dingo\Api\Routing\Router;
 use Illuminate\Console\Command;

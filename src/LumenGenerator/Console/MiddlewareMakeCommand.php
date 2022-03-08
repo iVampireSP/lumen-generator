@@ -1,6 +1,6 @@
 <?php
 
-namespace Flipbox\LumenGenerator\Console;
+namespace iVampireSP\LumenGenerator\Console;
 
 class MiddlewareMakeCommand extends GeneratorCommand
 {
