@@ -4,14 +4,6 @@
 
 原仓库地址：https://github.com/flipboxstudio/lumen-generator
 
-[![Total Downloads](https://poser.pugx.org/flipbox/lumen-generator/d/total.svg)](https://packagist.org/packages/flipbox/lumen-generator)
-[![Latest Stable Version](https://poser.pugx.org/flipbox/lumen-generator/v/stable.svg)](https://packagist.org/packages/flipbox/lumen-generator)
-[![Latest Unstable Version](https://poser.pugx.org/flipbox/lumen-generator/v/unstable.svg)](https://packagist.org/packages/flipbox/lumen-generator)
-[![License](https://poser.pugx.org/flipbox/lumen-generator/license.svg)](https://packagist.org/packages/flipbox/lumen-generator)
-
-Do you miss any Laravel code generator on your Lumen project?
-If yes, then you're in the right place.
-
 ## Installation
 
 To use _some_ generators command in Lumen (just like you do in Laravel), you need to add this package:
