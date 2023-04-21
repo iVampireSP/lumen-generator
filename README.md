@@ -1,6 +1,6 @@
 # Lumen Generator
 
-由于我看原仓库好久没更新了lumen 9适配了所以自己整了一下
+由于我看原仓库好久没更新，所以自己适配了一下 Lumen 9
 
 原仓库地址：https://github.com/flipboxstudio/lumen-generator
 
